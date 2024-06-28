@@ -1,0 +1,5 @@
+X,Y,fid,BUILDING,ADDR_CITY,A_STRT,A_SBRB,A_HSNMBR,A_PLACE,A_PSTCD,B_LEVELS,NAME,NAME_EN,OSM_TYPE,OSM_ID,icon_url
+-68.2745605,12.13935,"1",apartments,,,,,,,,Blue Bonaire Apartment Homes,,node,"3748114651",./0.png
+-68.2710412,12.1357968,"2",apartments,,,,,,,,Water Villas,,node,"3748250289",./0.png
+-68.2709188,12.1447883,"3",commercial,Kralendijk,Kaya Industria,,,,,,mini storage,,node,"3748627031",./0.png
+-68.2734823,12.1381761,"4",apartments,,,,,,,,Caribbean Court,,node,"9524966735",./0.png

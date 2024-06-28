@@ -1,0 +1,11 @@
+X,Y,fid,NAME,NAME_EN,INT_NAME,OFFICIAL_S,PLACE,A_CNTR,A_RGN,A_DSTRCT,A_PSTCD,POPULATION,OSM_TYPE,OSM_ID,icon_url
+-68.2740206,12.1472869,"1",Kralendijk,Kralendijk,Kralendijk,,town,,,,,"12531",node,"50034650",./0.png
+-68.329816,12.2386709,"7",Rincon,,,,village,,,,,,node,"292989451",./1.png
+-68.287073,12.1646462,"22",Caribe Watersport and Watertaxi,,,,locality,,,,,,node,"3282465628",./2.png
+-68.4137309,12.2462196,"23",Playa Frans,,,,hamlet,,,,,,node,"3286803025",./3.png
+-68.4136608,12.2643026,"24",Slagbaai,,,,hamlet,,,,,,node,"3286804229",./3.png
+-68.3212271,12.2107213,"25",1000 Steps,,,,hamlet,,,,,,node,"3286834566",./3.png
+-68.3520304,12.2199139,"26",Karpata,,,,hamlet,,,,,,node,"3286835623",./3.png
+-68.302002,12.1512769,"29",Tanki Kalbas,,,,locality,,,,,,node,"5408268308",./2.png
+-68.3015728,12.1623105,"30",Pos Kabritu,,,,locality,,,,,,node,"5408268309",./2.png
+-68.3207989,12.1608842,"31",Westpunt,,,,locality,,,,,,node,"5408268310",./2.png

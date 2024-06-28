@@ -1,0 +1,450 @@
+X,Y,fid,NAME,NAME_EN,MAN_MADE,LEISURE,AMENITY,OFFICE,SHOP,TOURISM,SPORT,OSM_TYPE,OSM_ID,icon_url
+-68.2729708,12.1446288,"13",,,surveillance,,,,,,,node,"278303396",
+-68.2728545,12.1445123,"16",,,surveillance,,,,,,,node,"287960358",
+-68.2872007,12.1674719,"17",Bari Reef,,,,,,,,scuba_diving,node,"313862678",
+-68.2868883,12.1675911,"18",Dive Friends Bonaire @ SD,,,,,,scuba_diving,,,node,"313862857",
+-68.3217112,12.2106695,"19",1000 Steps,,,,,,,,scuba_diving,node,"313863131",
+-68.2759979,12.1512843,"59",,,,,parking,,,,,node,"493515087",
+-68.2890155,12.1744041,"62",Hamlet Oasis Resort,,,,,,,hotel,,node,"529050421",./0.png
+-68.2721008,12.1936531,"67",Seru Largu,,,,place_of_worship,,,,,node,"540032959",
+-68.2721035,12.1935954,"68",Seru Largu,,,,,,,viewpoint,,node,"540032960",./1.png
+-68.3760885,12.3049287,"69",Seru Bentana Lighthouse,,lighthouse,,,,,viewpoint,,node,"540032961",./1.png
+-68.2373018,12.0283185,"70",Willemstoren Lighthouse,,lighthouse,,,,,,,node,"540034414",
+-68.3707345,12.2323174,"71",Goto Lake viewpoint,,,,parking,,,viewpoint,,node,"540059570",./1.png
+-68.28836,12.1708559,"78",Ingridients Restaurant,,,,restaurant,,,,,node,"634037501",
+-68.2730674,12.1445183,"79",,,surveillance,,,,,,,node,"634954128",
+-68.2729477,12.144421,"80",,,surveillance,,,,,,,node,"634954138",
+-68.2810107,12.1589381,"81",Boy Scout,,,,,,,,scuba_diving,node,"635094192",
+-68.2789411,12.1549049,"82",Mi Cas,,,,,,,,scuba_diving,node,"635094202",
+-68.2886846,12.1710564,"83",Buddy's Reef,,,,,,,,scuba_diving,node,"635094204",
+-68.2893863,12.171676,"84",La Machaca,,,,,,,,scuba_diving,node,"635094207",
+-68.2822176,12.0597582,"85",English Garden,,,,,,,,scuba_diving,node,"635881767",
+-68.2852927,12.0998035,"86",Alice in Wonderland,,,,,,,,scuba_diving,node,"635881804",
+-68.2901176,12.1037524,"87",Hilma Hooker,,,,,,,,scuba_diving,node,"635881808",
+-68.2846951,12.1308642,"88",Corporal Meiss,,,,,,,,scuba_diving,node,"635881836",
+-68.2838525,12.1613822,"89",Something Special,,,,,,,,scuba_diving,node,"635942336",
+-68.2973979,12.1915792,"90",,,,,parking,,,,,node,"636400639",
+-68.2978203,12.1913607,"91",Andrea II,,,,,,,,scuba_diving,node,"636400643",
+-68.3140546,12.2049583,"92",Jeff Davis Memorial,,,,,,,,scuba_diving,node,"636400684",
+-68.3165738,12.2065395,"93",Weber's Joy,,,,,,,,scuba_diving,node,"636400689",
+-68.3087706,12.2000579,"94",Oil Slick,,,,,,,,scuba_diving,node,"636400703",
+-68.2860647,12.1068512,"95",,,mast,,,,,,,node,"637323043",
+-68.2856174,12.1064236,"96",,,mast,,,,,,,node,"637323045",
+-68.2842614,12.1077627,"97",,,mast,,,,,,,node,"637323047",
+-68.2847059,12.108179,"98",,,mast,,,,,,,node,"637323049",
+-68.2853647,12.1686707,"99",MCB,,,,atm,,,,,node,"638522368",
+-68.2859588,12.1680813,"100",San Dollar Grocery,,,,,,supermarket,,,node,"638522369",
+-68.2860364,12.1682945,"101",Lover's Ice Cream,,,,cafe,,,,,node,"638522371",
+-68.2859868,12.1681655,"102",Wine and Liquor,,,,,,alcohol,,,node,"638522374",
+-68.2871264,12.1666879,"103",Front Porch,,,,,,,,scuba_diving,node,"639106013",
+-68.2860836,12.1685653,"104",MCB,,,,atm,,,,,node,"639106015",
+-68.2325594,12.1302791,"105",Butterfly Farm Bonaire,,,,,,,attraction,,node,"646742860",./2.png
+-68.2367651,12.0276628,"106",Willemstoren Lighthouse,,,,,,,,scuba_diving,node,"663869394",
+-68.2627409,12.0349171,"107",Sweet Dreams,,,,,,,,scuba_diving,node,"663869395",
+-68.2648116,12.0386524,"108",Vista Blue,,,,,,,,scuba_diving,node,"663869396",
+-68.2515176,12.0260699,"109",Red Slave,,,,,,,,scuba_diving,node,"663869397",
+-68.2952067,12.1139501,"110",Lighthouse Point,,,,,,,,scuba_diving,node,"663869398",
+-68.291505,12.108785,"111",Punt Vierkant,,,,,,,,scuba_diving,node,"663869399",
+-68.2722056,12.0513405,"112",Margate Bay,,,,,,,,scuba_diving,node,"663869400",
+-68.2819519,12.0835942,"113",Salt Pier,,,,,,,,scuba_diving,node,"663869401",
+-68.2801815,12.077631,"114",Invisibles,,,,,,,,scuba_diving,node,"663869402",
+-68.2806859,12.079695,"115",Salt City,,,,,,,,scuba_diving,node,"663869403",
+-68.2822351,12.0628465,"116",Pink Beach,,,,,,,,scuba_diving,node,"663869404",
+-68.2805412,12.0701968,"117",Tori's Reef,,,,,,,,scuba_diving,node,"663869405",
+-68.267482,12.0448994,"118",Atlantis,,,,,,,,scuba_diving,node,"663869406",
+-68.2685291,12.0466404,"119",Red Beryl,,,,,,,,scuba_diving,node,"663869407",
+-68.2812043,12.0575572,"120",White Slave,,,,,,,,scuba_diving,node,"663869408",
+-68.284795,12.0983883,"121",Aquarius,,,,,,,,scuba_diving,node,"663869409",
+-68.2840519,12.0952821,"122",Larry's Lair,,,,,,,,scuba_diving,node,"663869410",
+-68.2280778,12.0940583,"123",Blue Hole,,,,,,,,scuba_diving,node,"663869411",
+-68.282629,12.0867114,"124",Jeannie's Glory,,,,,,,,scuba_diving,node,"663869412",
+-68.2873207,12.1255594,"125",Bachelor`s Beach,,,,,,,,scuba_diving,node,"663869413",
+-68.2872133,12.1033916,"126",Angel City,,,,,,,,scuba_diving,node,"663869415",
+-68.2224528,12.1032167,"127",Cai,,,,,,,,scuba_diving,node,"663869416",
+-68.29,12.1071283,"128",The Lake,,,,,,,,scuba_diving,node,"663869417",
+-68.4135635,12.2646664,"129",Boka Slagbaai,,,,,,,,scuba_diving,node,"663869419",
+-68.4119809,12.2902417,"130",Playa Benge,,,,,,,,scuba_diving,node,"663869420",
+-68.4140883,12.28223,"131",Playa Funchi,,,,,,,,scuba_diving,node,"663869421",
+-68.4128282,12.2407008,"132",Nukove,,,,,,,,scuba_diving,node,"663869422",
+-68.2760033,12.1444233,"133",Calabas Reef,,,,,,,,scuba_diving,node,"663869423",
+-68.3086133,12.2002683,"134",Oil Slick Leap,,,,,,,,scuba_diving,node,"663869425",
+-68.2966367,12.1880187,"135",Andrea I,,,,,,,,scuba_diving,node,"663869426",
+-68.3374389,12.2152361,"136",Boka di Tolo,,,,,,,,scuba_diving,node,"663869427",
+-68.2977439,12.1914079,"137",Andrea II,,,,,,,,scuba_diving,node,"663869429",
+-68.2816616,12.1333083,"138",Windsock,,,,,,,,scuba_diving,node,"663869430",
+-68.28459,12.1306383,"139",North Belnem / Corporal Meiss,,,,,,,,scuba_diving,node,"663869432",
+-68.2894267,12.1733517,"140",Cliff,,,,,,,,scuba_diving,node,"663869433",
+-68.2883867,12.1705246,"141",Buddy`s Reef,,,,,,,,scuba_diving,node,"663869435",
+-68.2892583,12.1713556,"142",Reef Scientifico,,,,,,,,scuba_diving,node,"663869438",
+-68.3521324,12.2192934,"143",Karpata,,,,,,,,scuba_diving,node,"663869440",
+-68.3481483,12.2181417,"144",La Denia`s Leap,,,,,,,,scuba_diving,node,"663869441",
+-68.3975477,12.3048091,"145",Boka Bartol,,,,,,,,scuba_diving,node,"663869442",
+-68.2930233,12.1801659,"149",Black Durgon Inn,,,,,,,hotel,,node,"853861178",./0.png
+-68.2765096,12.138643,"150",18th Palm,,,,,,,,scuba_diving,node,"854130076",
+-68.4127451,12.230709,"151",Carel's Vision,,,,,,,,scuba_diving,node,"854130125",
+-68.4036763,12.2230317,"152",Taylor Made,,,,,,,,scuba_diving,node,"854130146",
+-68.3092708,12.2487036,"153",Mati Mati,,,,,,,attraction,,node,"857054376",./2.png
+-68.3105806,12.249141,"154",Marca Indian Inscriptions,,,,,,,attraction,,node,"857054401",./2.png
+-68.3231594,12.2581584,"155",Piedra di Bonaire,,,,,,,attraction,,node,"857054405",./2.png
+-68.2871162,12.1676746,"156",Breezers and Bites,,,,restaurant,,,,,node,"858691217",
+-68.2758352,12.1406197,"166",Sebastian's,,,,restaurant,,,,,node,"1277196793",
+-68.2707375,12.1447295,"167",Antillean Wine Company,,,,,,alcohol,,,node,"1277731686",
+-68.2778181,12.1337093,"168",,,,,car_rental,,,,,node,"1307010503",
+-68.2848859,12.1638142,"1273",Harbour Village Marina,,,marina,,,,,,node,"1345508312",
+-68.2723177,12.1438518,"1277",Bonaco,,,,,,,hotel,,node,"1411669861",./0.png
+-68.4141402,12.245742,"1279",Playa Frans,,,,,,,,scuba_diving,node,"1420984806",
+-68.2799587,12.0760025,"1280",The Rock,,,,,,,,scuba_diving,node,"1420984809",
+-68.2695072,12.1441897,"1304",Warehouse Supermarket,,,,,,supermarket,,,node,"2323714885",
+-68.2756352,12.1498013,"1305",,,,,police,,,,,node,"2324286677",
+-68.2670787,12.144896,"1306",,,,,atm,,,,,node,"2324399878",
+-68.2692508,12.144186,"1307",MCB,,,,atm,,,,,node,"2324399881",
+-68.2770645,12.133274,"1308",,,,,atm,,,,,node,"2324399882",
+-68.2709854,12.1649246,"1309",,,,,atm,,,,,node,"2324399884",
+-68.2660614,12.1444493,"1310",MCB,,,,atm,,,,,node,"2324399885",
+-68.3753404,12.2202758,"1313",Windjammer,,,,,,,,scuba_diving,node,"2625769975",
+-68.3576694,12.2955156,"1319",Suplado (blowhole),,,,,,,viewpoint,,node,"2936588676",./1.png
+-68.2093057,12.180217,"1320",Punto Blanco,,,,,,,viewpoint,,node,"2936588677",./1.png
+-68.2446384,12.1404483,"1321",Maiky Snack,,,,restaurant,,,,,node,"2936588678",
+-68.2650902,12.1366753,"1322",Carribean Chillout,,,,,,,hotel,,node,"2936632733",./0.png
+-68.2399227,12.1443317,"1324",Jos,,,,cafe,,,,,node,"3220935352",
+-68.2918805,12.1764438,"1325",,,,slipway,,,,,,node,"3226378865",
+-68.2760217,12.141023,"1326",Slipway Catalina Diaz Leonora,,,slipway,,,,,,node,"3232741626",
+-68.2208799,12.1163183,"1327",Mangrove Info Center,,,,,,,attraction,,node,"3258954979",./2.png
+-68.2491475,12.0248163,"1328",Most Southern Point of Bonaire,,survey_point,,,,,,,node,"3283759396",
+-68.3215665,12.2172467,"1329",,,tower,,,,,,,node,"3386782099",
+-68.3261821,12.217115,"1330",,,tower,,,,,,,node,"3386782101",
+-68.32125,12.217152,"1331",,,tower,,,,,,,node,"3386782106",
+-68.3213412,12.2173778,"1332",,,tower,,,,,,,node,"3386782107",
+-68.3220064,12.2161824,"1333",,,tower,,,,,,,node,"3386782108",
+-68.3087249,12.2005356,"1334",,,,,parking,,,,,node,"3386792315",
+-68.2965415,12.1880158,"1335",,,,,parking,,,,,node,"3386792321",
+-68.3371739,12.2154821,"1336",,,,,parking,,,,,node,"3396136900",
+-68.2762511,12.1518727,"1338",I Love Bonaire,,,,,,clothes,,,node,"3550765045",
+-68.2756986,12.1394395,"1339",VIP Diving,,,,,,outdoor,,,node,"3580671693",
+-68.2873271,12.1643726,"1342",Caribe Watersport and Watertaxi,,,,ferry_terminal,,,,water_ski,node,"3637980732",
+-68.305365,12.1684224,"1343",,,,,ferry_terminal,,,,,node,"3637980736",
+-68.2311162,12.1591097,"1344",Pos Bara Di Karta,,windpump,,,,,,,node,"3658680216",
+-68.2784809,12.153417,"1347",Klein Bonaire Watertaxi,,,,,,,attraction,,node,"3675116157",./2.png
+-68.3110922,12.2496826,"1348",Marca Indian Inscriptions,,,,,,,attraction,,node,"3698426243",./2.png
+-68.2780633,12.1529154,"1349",,,,,parking_entrance,,,,,node,"3704070981",
+-68.2762874,12.1499135,"1350",,,,,atm,,,,,node,"3706066965",
+-68.2678444,12.1527912,"1351",,,,,atm,,,,,node,"3739834094",
+-68.3091699,12.2008224,"1352",,,,,parking,,,,,node,"3743498638",
+-68.3102432,12.201825,"1353",,,,,parking,,,,,node,"3743498639",
+-68.3138402,12.2051971,"1354",,,,,parking,,,,,node,"3743498640",
+-68.3163567,12.2066404,"1355",,,,,parking,,,,,node,"3743498641",
+-68.3178407,12.2075297,"1356",,,,,parking,,,,,node,"3743498642",
+-68.3246309,12.211324,"1357",,,,,parking,,,,,node,"3743498644",
+-68.2756683,12.1446455,"1358",Flamingo Casino,,,,casino,,,,,node,"3748219761",
+-68.2646015,12.1389449,"1359",Hua Feng Supermarket B.V.,,,,,,supermarket,,,node,"3748219770",
+-68.2723121,12.1449037,"1360",CAT,,,,,company,,,,node,"3748627036",
+-68.271947,12.1449225,"1361",Brugman,,,,,company,,,,node,"3748627037",
+-68.3299728,12.2386073,"1362",,,,,telephone,,,,,node,"3752195016",
+-68.3417438,12.265488,"1363",,,,,telephone,,,,,node,"3756373307",
+-68.2859716,12.16813,"1364",Day Spa,,,,,,beauty,,,node,"3756589689",
+-68.2377082,12.094653,"1365",,,,slipway,,,,,,node,"3761509209",
+-68.2773155,12.1504306,"1366",,,,slipway,,,,,,node,"3761543491",
+-68.2662215,12.199538,"1367",,,,,telephone,,,,,node,"3763962800",
+-68.2753517,12.1762179,"1368",,,,,telephone,,,,,node,"3764124045",
+-68.331399,12.2338433,"1369",,,,,recycling,,,,,node,"3767545740",
+-68.2658279,12.1442883,"1371",Caribe Supermarket,,,,,,supermarket,,,node,"3789921565",
+-68.3264578,12.156718,"1372",,,lighthouse,,,,,,,node,"3790789305",
+-68.2758889,12.1522627,"1373",,,,,atm,,,,,node,"3801328522",
+-68.2767572,12.1523865,"1374",MCB,,,,atm,,,,,node,"3801329765",
+-68.2797129,12.1572727,"1375",Kanti Awa,,,,bar,,,,,node,"3801331332",
+-68.2765597,12.1497533,"1376",Verenigde Protestantse Gemeente Bonaire,,,,place_of_worship,,,,,node,"3801333305",
+-68.2742173,12.152199,"1377",Beer and Burgers,,,,restaurant,,,,,node,"3801333982",
+-68.2767434,12.1504612,"1378",El Mundo,,,,bar,,,,,node,"3801334401",
+-68.2765604,12.1503685,"1379",La Cantina,,,,restaurant,,,,,node,"3801334404",
+-68.3279887,12.2394693,"1380",Le-Ma-se,,,,restaurant,,,,,node,"3801335110",
+-68.2780701,12.1545405,"1381",Sun Rentals Bonaire,,,,,,,hotel,,node,"3801337047",./0.png
+-68.2740361,12.1716438,"1382",Papa Cornes School,Kolegio Rayo Di Solo,,,school,,,,,node,"3801337967",
+-68.3297053,12.2384653,"1383",,,,,atm,,,,,node,"3801340647",
+-68.3298957,12.2371993,"1384",Rose Inn local Food,,,,restaurant,,,,,node,"3801342311",
+-68.2662039,12.1445511,"1385",MCB,,,,atm,,,,,node,"3801348127",
+-68.2670864,12.1447259,"1386",Van den Tweel Supermarket,,,,,,supermarket,,,node,"3801348565",
+-68.276318,12.1460122,"1388",Chachacha Beach,,,,,,,,scuba_diving,node,"4017913908",
+-68.2843305,12.1681151,"1392",Pelikaan School,,,,school,,,,,node,"4172023089",
+-68.2858416,12.1223381,"1393",Seadonkey Lodge,,,,,,,guest_house,,node,"4179007004",./3.png
+-68.2735446,12.2133538,"1394",,,,,parking,,,,,node,"4198985504",
+-68.2360116,12.0878318,"1395",,,tower,,,,,,,node,"4199989891",
+-68.4132212,12.2935303,"1396",Bisé Morto,,,,,,,,scuba_diving,node,"4200486589",
+-68.2155106,12.218912,"1397",,,,,parking,,,,,node,"4204848851",
+-68.4120935,12.2345357,"1398",,,tower,,,,,,,node,"4206936356",
+-68.3365686,12.2707232,"1399",Playa Grandi,,,,,,,viewpoint,,node,"4282959492",./1.png
+-68.3114481,12.2533215,"1400",Boka Onima,,,,,,,attraction,,node,"4283055253",./2.png
+-68.3163991,12.2495717,"1401",Kaomati,,,,,,,viewpoint,,node,"4283094398",./1.png
+-68.3476605,12.24632,"1402",Pos shon leu,,,,,,,attraction,,node,"4283205570",./2.png
+-68.2885576,12.1776528,"1403",SMED Divers,,,,,,sports,,,node,"4291280191",
+-68.2884097,12.1774461,"1404",Bubbles Villa,,,,,,,guest_house,,node,"4291324591",./3.png
+-68.2771566,12.1500129,"1405",Public Fish Market,,,,,,seafood,,,node,"4313248393",
+-68.2819561,12.1258577,"1406",,,,,bench,,,,,node,"4323666591",
+-68.2771259,12.1509968,"1407",Bon Tapas,,,,restaurant,,,,,node,"4348505390",
+-68.2672553,12.1986261,"1408",,Back to Basic Bonaire,,,,,,hotel,,node,"4367158191",./0.png
+-68.2568185,12.1418718,"1409",Tronco Snacks,,,,restaurant,,,,,node,"4417577953",
+-68.2490485,12.1359322,"1410",Zozo Ranch,,,,kindergarten,,,,,node,"4424105890",
+-68.4139081,12.2696116,"1411",Wayaka 2,,,,,,,,scuba_diving,node,"4437663289",
+-68.3375355,12.2711469,"1413",Panorama East Coast,,,,,,,viewpoint,,node,"4499390303",./1.png
+-68.2627789,12.1470353,"1414",BuurtCentrum Nikiboko,BuurtCentrum Nikiboko,,,community_centre,,,,,node,"4556106189",
+-68.2859536,12.1283418,"1415",,Windsock The Beach,,,bar,,,,,node,"4559360497",
+-68.275167,12.1542734,"1416",Botica Bonaire,Botica Bonaire,,,pharmacy,,,,,node,"4581570391",
+-68.2825379,12.1854222,"1417",Villa Paul,,,,,,,apartment,,node,"4588699295",
+-68.2768652,12.150828,"1418",Bonaire Handmakers,Bonaire Handmakers,,,,,gift,,,node,"4593001693",
+-68.2789063,12.1251203,"1419",,Villa Alcyone Bonaire,,,,,,hotel,,node,"4601728189",./0.png
+-68.2794455,12.1240137,"1420",,Sabal Palm 50,,,,,,hotel,,node,"4625457991",./0.png
+-68.2774837,12.1513556,"1422",Bonaire Affair,,,,,,gift,,,node,"4668205443",
+-68.2776231,12.1524176,"1423",Little Havana,,,,pub,,,,,node,"4668214677",
+-68.2772878,12.1531033,"1424",Donna & Giorgio,,,,restaurant,,,,,node,"4668226493",
+-68.2772275,12.1530574,"1425",Osaka Sushi,,,,restaurant,,,,,node,"4668229882",
+-68.2769043,12.1534954,"1426",,,,,,,doityourself,,,node,"4668233633",
+-68.2761687,12.1518749,"1427",Tisa Bonaire,,,,,,clothes,,,node,"4668276662",
+-68.2756678,12.152672,"1428",Top Supermarket,,,,,,supermarket,,,node,"4668276782",
+-68.2758341,12.1435994,"1429",,,,,atm,,,,,node,"4668476827",
+-68.276439,12.1467669,"1430",,,,,atm,,,,,node,"4668478018",
+-68.2745574,12.1371382,"1431",MCB,,,,atm,,,,,node,"4668479443",
+-68.2893527,12.1759552,"1432",,,,,atm,,,,,node,"4668490171",
+-68.2676641,12.1434816,"1433",Universal Church of Kindom of God,Universal Church of Kindom of God,,,place_of_worship,,,,,node,"4692709995",
+-68.2461353,12.1672586,"1435",The Ocean Window,the oceanwindow bv,,,,,photo,,,node,"4709891298",
+-68.2461225,12.1674143,"1436",,kas divi,,,,,electronics,,,node,"4709891392",
+-68.2884381,12.177516,"1437",Bonaire Scuba School,,,,school,,,,,node,"4715054389",
+-68.2597147,12.167943,"1438",,,,,,,,guest_house,,node,"4715180692",./3.png
+-68.2885784,12.1719827,"1439",Rum Runners,Rum runners,,,restaurant,,,,,node,"4725063292",
+-68.2448472,12.1718615,"1440",,Dutch Car Repair,,,,,car_repair,,,node,"4739701474",
+-68.2367549,12.1776648,"1441",,Jellastone Pet Park,,,,,pet,,,node,"4739701475",
+-68.2767869,12.1512572,"1443",Digicel,,,,,,mobile_phone,,,node,"4768036569",
+-68.2776274,12.1533261,"1444",Alma Lusa Bakery & Pastries,,,,,,bakery,,,node,"4769577821",
+-68.2076752,12.1724168,"1445",Blowhole,,,,,,,viewpoint,,node,"4848642699",./1.png
+-68.2639622,12.1448458,"1446",Orange Express,Orange Express,,,restaurant,,,,,node,"4868435021",
+-68.2738214,12.1549378,"1447",Huisarts Schräder,Huisarts Schräder,,,doctors,,,,,node,"4878698821",
+-68.2731602,12.1427662,"1449",Djambo Apartments,,,,,,,hotel,,node,"4883510717",./0.png
+-68.2698577,12.1381714,"1450",Watersport Center Bonaire @ Courtyard by Marriott,,,,,,water_sports,,water_sports,node,"4917703734",
+-68.2899992,12.1742908,"1451",Dive Friends Bonaire @ HO,,,,,,scuba_diving,,,node,"4917703735",
+-68.2777433,12.1345803,"1452",Dive Friends Bonaire @ PB,,,,,,scuba_diving,,,node,"4917707321",
+-68.2866892,12.1678101,"1453",Dive Friends Bonaire Retail,,,,,,scuba_diving,,,node,"4917707322",
+-68.254192,12.1659569,"1454",Cari,,,,,,,guest_house,,node,"4921172421",./3.png
+-68.2797766,12.1342653,"1455",Kite City Food Truck,,,,fast_food,,,,,node,"4922789098",
+-68.3583684,12.2952466,"1456",,,,,parking,,,,,node,"4924943379",
+-68.2780462,12.1843364,"1457",,Kas Bon Aire Holliday-apartments,,,,,,hotel,,node,"4925308324",./0.png
+-68.2783871,12.1842448,"1458",,Kas Blue Aire Wellness,,fitness_centre,,,,,,node,"4925310121",
+-68.2819786,12.1608889,"1459",Anke's Scissors,,,,,,hairdresser,,,node,"4971358723",
+-68.2823127,12.1615234,"1460",New Wei Taai,New Wei Taai,,,restaurant,,,,,node,"5002241025",
+-68.2823501,12.1615614,"1461",New Wei Taai,New Wei Taai,,,restaurant,,,,,node,"5002241026",
+-68.2461544,12.1670049,"1463",,Digi Buriku,,,,,computer,,,node,"5114053322",
+-68.2883782,12.1775436,"1465",Bonaire IDC,,,,school,,,,,node,"5141065122",
+-68.2853417,12.1679737,"1467",Zen’s bar & cafe,Zen’s bar & cafe,,,restaurant,,,,,node,"5193921027",
+-68.2843722,12.130539,"1468",,Cactus Blue Food Truck,,,fast_food,,,,,node,"5196524223",
+-68.2707329,12.1448992,"1470",Caribbean Coffee Compagny,Caribbean Coffee Compagny,,,,,wine,,,node,"5278156024",
+-68.2593817,12.1428638,"1475",Batalha,ARTES PIEDRAS B.V.,,,,,,apartment,,node,"5315726922",
+-68.288086,12.1229392,"1479",,Amarula guesthouse,,,,,,guest_house,,node,"5364814221",./3.png
+-68.2939695,12.1150042,"1480",Delfins Beach Resort,,,,,,,hotel,,node,"5366686511",./0.png
+-68.3127898,12.2124735,"1481",Cave Tree,,,,,,,viewpoint,,node,"5404389221",./1.png
+-68.3561627,12.2388657,"1482",,,water_tower,,,,,,,node,"5404440032",
+-68.35623,12.2388858,"1483",,,,,drinking_water,,,,,node,"5404454921",
+-68.2765371,12.146911,"1484",South Pier Mall,,,,,,mall,,,node,"5408268311",
+-68.3239043,12.2214065,"1485",Cave,,,,,,,viewpoint,,node,"5412979122",./1.png
+-68.2861084,12.1696744,"1486",Bon Bida Beauty,,,,,,beauty,,,node,"5412995222",
+-68.2738346,12.1528204,"1487",Catholic Schoolboard,Catholic Schoolboard,,,,company,,,,node,"5417801421",
+-68.327973,12.2335851,"1488",Kolegio San Luis Bertran,,,,school,,,,,node,"5417805827",
+-68.2792077,12.174677,"1489",Skol Amplio Papa Cornes,Skol Amplio Papa Cornes,,,school,,,,,node,"5417810521",
+-68.2726484,12.1494748,"1490",Caribbean Laundry service and Magero Self Service Laundry,Caribbean Laundry service and Magero Self Service Laundry,,,,,laundry,,,node,"5422772321",
+-68.2746118,12.1484931,"1491",Bonaire Cruisers Rentals,Bonaire Cruisers Rentals,,,car_rental,,,,,node,"5426862622",
+-68.2527614,12.137161,"1492",Flamingo Adventure Golf,,,miniature_golf,,,,,,node,"5483325958",
+-68.273624,12.1466574,"1493",Rijks Caribisch Nederland,Rijks Caribisch Nederland,,,,government,,,,node,"5511458727",
+-68.2712241,12.1606746,"1494",Shun Jing Snack,Shun Jing Snack,,,bar,,,,,node,"5563018221",
+-68.2746162,12.1780109,"1495",,Regalo Snack,,,fast_food,,,,,node,"5581197722",
+-68.2926523,12.1826089,"1496",Viva Bonaire - Holydayhomes,,,,,,,apartment,,node,"5581598221",
+-68.2670199,12.1441178,"1497",Tur Kos Ta Bunita - logopedie,Tur Kos Ta Bunita - speech therapy,,,,company,,,,node,"5581598321",
+-68.2717533,12.1370686,"1498",BLT Burger,,,,restaurant,,,,,node,"5585970370",
+-68.272279,12.1703971,"1499",,Lutram Administratie & Beheerkantoor B.V.,,,,company,,,,node,"5613867421",
+-68.2747484,12.122645,"1500",Hippie Holidays,,,,,,,guest_house,,node,"5709162985",./3.png
+-68.2937865,12.1813693,"1501",,,,,,,,hotel,,node,"5714975423",./0.png
+-68.2243112,12.1635679,"1502",Eco Lodge Washikemba,,,,,,,hotel,,node,"5720871134",./0.png
+-68.2772404,12.151199,"1503",Crown Business Center Bonaire,Crown Business Center Bonaire,,,,company,,,,node,"5777749153",
+-68.2925394,12.179479,"1504",Playa Coco,,,,,,,guest_house,,node,"5859372186",./3.png
+-68.2845991,12.1643416,"1505",SoloBon Sailing,,,,,,,attraction,,node,"6009922641",./2.png
+-68.3019234,12.1968443,"1506",Villa Salentein,,,,,,,hotel,,node,"6015871585",./0.png
+-68.2771431,12.152724,"1507",ORCO Bank,ORCO Bank,,,bank,,,,,node,"6032433185",
+-68.2866213,12.1267496,"1528",,Villa Popchi,,,,,,hotel,,node,"6066403100",./0.png
+-68.3063502,12.1993936,"1529",Mil Suenos,,,,,,,hotel,,node,"6066411387",./0.png
+-68.2938036,12.116277,"1530",,Villa Karibuni,,,,,,hotel,,node,"6066444000",./0.png
+-68.2966544,12.1913816,"1531",Beach House Sabrea,,,,,,,hotel,,node,"6066514286",./0.png
+-68.296219,12.1907669,"1532",Villa Mariposa,,,,,,,hotel,,node,"6066543286",./0.png
+-68.2870712,12.1257701,"1533",,Kas Bonchi,,,,,,hotel,,node,"6066549685",./0.png
+-68.2932354,12.1159002,"1534",,Kas Iguana,,,,,,hotel,,node,"6066549693",./0.png
+-68.2938102,12.1164353,"1535",,Villa Kwadrangolo,,,,,,hotel,,node,"6066551986",./0.png
+-68.2914628,12.1964799,"1536",JK House,,,,,,,hotel,,node,"6066663985",./0.png
+-68.2992473,12.1951679,"1537",Villa Azul,,,,,,,hotel,,node,"6066721987",./0.png
+-68.2722949,12.1365229,"1538",Villa Cassiopeia,Villa Cassiopeia,,,,,,hotel,,node,"6066727790",./0.png
+-68.2916401,12.1090359,"1539",,Sunset Beach Lodges,,,,,,hotel,,node,"6066727985",./0.png
+-68.2860505,12.1639393,"1540",Harbour Village Apartment,Harbour Village Apartment,,,,,,hotel,,node,"6066735985",./0.png
+-68.2965843,12.1904615,"1541",Villa Alvaro,,,,,,,hotel,,node,"6085943085",./0.png
+-68.2619749,12.1451941,"1542",Bonaire Best Car Rental Autoverhuur,Bonaire Best Car Rental,,,car_rental,,,,,node,"6091285185",
+-68.2171144,12.2186853,"1550",Spelonk Cave,,,,,,,viewpoint,,node,"6369337986",./1.png
+-68.2785435,12.1534972,"1551",Sailing Charter Bonaire,Sailing Charter Bonaire,,,,,,attraction,,node,"6369338085",./2.png
+-68.2803916,12.2063167,"1552",Aletta's Goat Farm,,,,,,cheese,attraction,,node,"6388286086",./2.png
+-68.2770797,12.1504915,"1554",,,,,toilets,,,,,node,"6419162687",
+-68.2857547,12.1250206,"1555",Las Palmitas,,,,,,,apartment,,node,"6525773146",
+-68.2937726,12.1155609,"1556",Dive Friends Bonaire @ DB,,,,,,,,scuba_diving,node,"6525781759",
+-68.2896235,12.1219386,"1557",,Villa Carina Apartments,,,,,,apartment,,node,"6548622486",
+-68.2738189,12.1435728,"1561",Kas ChuChubi,Kas ChuChubi,,,,,,guest_house,,node,"6751659685",./3.png
+-68.2848371,12.1695877,"1562",International Bible Church,,,,place_of_worship,,,,,node,"6753772566",
+-68.275904,12.1436294,"1563",Chibi Chibi Restaurant &bar,,,,restaurant,,,,,node,"6852801857",
+-68.2860226,12.1682548,"1564",Multishop,,,,,,gift,,,node,"6895732912",
+-68.2679516,12.1815266,"1565",,Rancho Mal Macho,,,,,,apartment,,node,"6907022185",
+-68.2855259,12.1684516,"1566",Pearle Vision,Pearle Vision,,,,,optician,,,node,"6915777986",
+-68.2854257,12.1684779,"1567",DA,DA Drogist,,,,,chemist,,,node,"6915869085",
+-68.2852248,12.1684466,"1568",Top1Toys,Top1Toys,,,,,toys,,,node,"6915909086",
+-68.2736648,12.1377634,"1569",Friendlyhomes apartment,Friendlyhomes apartment,,,,,,apartment,,node,"6920065185",
+-68.2596934,12.1439659,"1570",,,,,,,,apartment,,node,"6939809586",
+-68.2951906,12.1965904,"1571",White House,,,,,,,hotel,,node,"6945596416",./0.png
+-68.2785447,12.1533083,"1572",,,,,ferry_terminal,,,,,node,"6970613061",
+-68.2790938,12.1783636,"1573",,Blueprint,,,,company,,,,node,"6973075985",
+-68.2833365,12.1244059,"1574",,COCO LOCO Bonaire,,,,,,guest_house,,node,"7020296807",./3.png
+-68.2854729,12.1680981,"1576",Elle et Lui,Elle et Lui,,,,,hairdresser,,,node,"7035700685",
+-68.2767753,12.1517684,"1577",Beachvibes Surf Shop,Beachvibes Surf Shop,,,,,clothes,,,node,"7096539685",
+-68.2828801,12.2341629,"1578",,Bonaire Landsailing Adventured,,,,,,attraction,,node,"7252039085",./2.png
+-68.3981386,12.279869,"1579",Put Bronswinkel,,,,,,,viewpoint,,node,"7261999485",./1.png
+-68.2853744,12.1680388,"1580",Döner Station,,,,fast_food,,,,,node,"7266423085",
+-68.2793207,12.135014,"1581",Stoked Foodtruck,,,,fast_food,,,,,node,"7272099085",
+-68.268232,12.1407825,"1582",,Carpentershop Smullie B.V.,,,,,furniture,,,node,"7598116285",
+-68.2329872,12.1471575,"1586",,,surveillance,,,,,,,node,"7816091885",
+-68.2780637,12.1550794,"1591",Scooters Bonaire,,,,bicycle_rental,,,,,node,"7939085185",
+-68.2725376,12.1516047,"1592",Bonaire Museum,,,,,,,museum,,node,"8223006617",./4.png
+-68.2766614,12.1516691,"1593",Gogreen,,,,restaurant,,,,,node,"8241798998",
+-68.2852727,12.168276,"1594",Bonaire Travel and Tours,,,,,,travel_agency,,,node,"8258386536",
+-68.2853723,12.1682361,"1595",Bruna,,,,,,books,,,node,"8258387022",
+-68.2718373,12.135252,"1596",The Dock,,,,restaurant,,,,,node,"8262018429",
+-68.2564759,12.136274,"1597",Tera cora ranch,,,,restaurant,,,,,node,"8357406608",
+-68.2765201,12.1512479,"1598",A-Team B/V.,,,,,employment_agency,,,,node,"8410347920",
+-68.2833497,12.1621387,"1599",Between 2 Buns,,,,restaurant,,,,,node,"8421105317",
+-68.4025266,12.2997359,"1605",Boka Katuna,,,,,,,,scuba_diving,node,"9523960359",
+-68.4058325,12.2587566,"1606",,,tower,,,,,,,node,"9523984572",
+-68.273814,12.1433618,"1608",Casa Mantana Bonaire,,,,,,,guest_house,,node,"9631477981",./3.png
+-68.2494638,12.1315681,"1609",,,beacon,,,,,,,node,"9666150796",
+-68.2882122,12.1742369,"1610",Carrefour,,,,restaurant,,,,,node,"9791275097",
+-68.2763872,12.1588802,"1611",Yhanni's Arepas,,,,restaurant,,,,,node,"9804620129",
+-68.2872085,12.1252012,"1612",King Kong Bonaire,,,,fast_food,,,,,node,"9804629082",
+-68.2843741,12.124497,"1613",Holy Smoke Bonaire,,,,bbq,,,,,node,"9804629744",
+-68.2760676,12.152351,"1614",Tostibar Bonaire,,,,restaurant,,,,,node,"9804633622",
+-68.2774353,12.1472782,"1615",Cruise Ship Terminal,,,,,,,information,,node,"9833781619",./5.png
+-68.2376439,12.0280568,"1616",,,cairn,,,,,,,node,"9898379589",
+-68.2769504,12.1522828,"1617",,,,,atm,,,,,node,"9898482264",
+-68.2863325,12.166315,"1618",Sunset restaurant,,,,restaurant,,,,,node,"9900557009",
+-68.2872434,12.1251566,"1623",,King Kong food truck,,,restaurant,,,,,node,"10033456617",
+-68.2758332,12.1477694,"1624",,,,,bicycle_rental,,,,,node,"10118933217",
+-68.2878009,12.1737699,"1626",Chefs Bonaire,,,,restaurant,,,,,node,"10141696217",
+-68.2854887,12.1681795,"1627",Elle & Lui coiffure,,,,,,hairdresser,,,node,"10205767617",
+-68.3820471,12.2318711,"1629",,,,picnic_table,,,,,,node,"10271499281",
+-68.3818124,12.2319681,"1630",,,,,,,,viewpoint,,node,"10271499282",./1.png
+-68.2853209,12.1284685,"1631",,Wannadive Bonaire,,,,,,attraction,,node,"10281427309",./2.png
+-68.2767342,12.1516608,"1632",MEET & EAT,,,,restaurant,,,,,node,"10573755509",
+-68.3215279,12.2107326,"1633",Snorkeling Site,,,,,,,attraction,,node,"10650897605",./2.png
+-68.2913834,12.1958004,"1635",Kas di Kunuku,,,,,,,hotel,,node,"10708052106",./0.png
+-68.2665532,12.1403243,"1637",,,,,,company,,,,node,"10756686806",
+-68.2665606,12.1403477,"1638",,,,,,company,,,,node,"10756730605",
+-68.2664747,12.1405011,"1639",,,,,,company,,,,node,"10756730705",
+-68.2751424,12.1550344,"1644",Tammy Taylor Nails Bonaire,,,,,,beauty,,,node,"10844082905",
+-68.292273,12.1111793,"1645",Crossfit Palms,,,fitness_centre,,,,,crossfit,node,"10875804034",
+-68.2922227,12.1109886,"1646",,Crossfit Palms,,fitness_centre,,,,,,node,"10914325906",
+-68.3631834,12.2332883,"1647",,,,,,,,viewpoint,,node,"10937883399",./1.png
+-68.3562642,12.238863,"1648",,,,,,,,information,,node,"10937903034",./5.png
+-68.3498923,12.2675374,"1649",,,,,,,,viewpoint,,node,"10937936762",./1.png
+-68.3502517,12.268093,"1650",,,,,,,,viewpoint,,node,"10937936767",./1.png
+-68.2760954,12.1520687,"1651",Boudoir,,,,cafe,,,,,node,"10975207083",
+-68.3608962,12.2984031,"1652",,,water_well,,,,,,,node,"10976939180",
+-68.2330198,12.1471515,"1653",F.K.K. Animal Rescue,,,,animal_shelter,,,,,node,"10977508820",
+-68.2060441,12.151105,"1654",Piedra So,,,golf_course,,,,,,node,"10977508821",
+-68.3053301,12.1681662,"1655",,,,,,,,information,,node,"10979384546",./5.png
+-68.2845256,12.1657418,"1656",Portobello Apartments,,,,,,,apartment,,node,"10982179090",
+-68.3214686,12.210858,"1657",,,,,parking,,,,,node,"10983713596",
+-68.2860085,12.1682201,"1658",Panino,,,,cafe,,,,,node,"10983823048",
+-68.2803175,12.1596783,"1659",Qvillas,,,,,estate_agent,,,,node,"10983823049",
+-68.2951145,12.187716,"1660",Kas Kalbas,,,,,,,chalet,,node,"10993220453",./6.png
+-68.2731903,12.1940558,"1661",,,,,bench,,,,,node,"10995580105",
+-68.2725608,12.1941678,"1662",,,,,parking,,,,,node,"10995580106",
+-68.2704786,12.1935125,"1663",,,,,,,,viewpoint,,node,"10995580271",./1.png
+-68.3692025,12.305064,"1664",,,,,parking,,,,,node,"11005564086",
+-68.3914058,12.2970645,"1665",,,,,parking,,,,,node,"11005598013",
+-68.3917612,12.2948009,"1666",,,,,,,,information,,node,"11005598017",./5.png
+-68.3897455,12.3110238,"1667",Malmok,,,,,,,information,,node,"11005598028",./5.png
+-68.4138063,12.282503,"1668",,,,,bench,,,,,node,"11005598029",
+-68.4142663,12.2642065,"1669",,,,,,,,viewpoint,,node,"11005598056",./1.png
+-68.2432807,12.1528155,"1670",Pos Flor di Cuba,,windpump,,,,,,,node,"11006243822",
+-68.2331272,12.1574297,"1671",Bara di Karta Hill,,,,,,,viewpoint,,node,"11006243893",./1.png
+-68.276785,12.1489347,"1672",Hof van Justitie,,,,,government,,,,node,"11010890521",
+-68.2768453,12.149588,"1673",,,,,,,,information,,node,"11010890522",./5.png
+-68.2773757,12.150669,"1674",,,,,bench,,,,,node,"11010890524",
+-68.2776232,12.1516575,"1675",King of Ribs,,,,restaurant,,,,,node,"11010890525",
+-68.2775588,12.1515664,"1676",Bon Style & Story,,,,,,clothes,,,node,"11010890526",
+-68.2773861,12.1509954,"1677",MG Bonaire,,,,,,gift,,,node,"11010890527",
+-68.2774344,12.1511593,"1678",Style Code,,,,,,clothes,,,node,"11010890528",
+-68.2773673,12.1515097,"1679",Terramar Museum,,,,,,,museum,,node,"11010890529",./4.png
+-68.2774572,12.1512373,"1680",Bonaire Realty,,,,,estate_agent,,,,node,"11010890530",
+-68.2774733,12.1513009,"1681",BuddhaToBuddha,,,,,,jewelry,,,node,"11010890531",
+-68.277545,12.1515087,"1682",Sunshine Food & Drinks,,,,cafe,,,,,node,"11010890532",
+-68.2774994,12.1518009,"1683",Piraña Joe,,,,,,clothes,,,node,"11010890534",
+-68.2770398,12.1516562,"1684",Service Drogist,,,,,,chemist,,,node,"11010890535",
+-68.2767005,12.15053,"1685",Number Ten,,,,cafe,,,,,node,"11010890540",
+-68.2767139,12.1505962,"1686",The Captains Table,,,,restaurant,,,,,node,"11010890541",
+-68.2765114,12.1471776,"1687",Umbrella,,,,restaurant,,,,,node,"11010932438",
+-68.2765034,12.1471225,"1688",C'est La Vie,,,,restaurant,,,,,node,"11010932439",
+-68.2764859,12.1470265,"1689",Essentials Boutique,,,,,,clothes,,,node,"11010932440",
+-68.2765677,12.1471549,"1690",Essentials Spa,,,,,,beauty,,,node,"11010932441",
+-68.2765456,12.1470461,"1691",BDO,,,,,accountant,,,,node,"11010932442",
+-68.2765369,12.1469852,"1692",The Real Estate Guy,,,,,estate_agent,,,,node,"11010932443",
+-68.2764222,12.1466679,"1693",Sakura,,,,restaurant,,,,,node,"11010932444",
+-68.2764343,12.1467265,"1694",Tulip Spa,,,,,,beauty,,,node,"11010932445",
+-68.2764899,12.1467465,"1695",Gino Obersi Architecture (GOA),,,,,architect,,,,node,"11010932446",
+-68.2765121,12.1468304,"1696",Wildkamp,,,,,,wholesale,,,node,"11010932447",
+-68.277422,12.1511032,"1697",MoltenWolf Glass,,,,,,art,,,node,"11010932448",
+-68.2765838,12.1466125,"1698",,,,,bench,,,,,node,"11011354308",
+-68.2778203,12.1517678,"1699",Karel's Beach Bar,,,,bar,,,,,node,"11011354311",
+-68.2780254,12.1516882,"1700",,,,,ferry_terminal,,,,,node,"11011354312",
+-68.2773008,12.150798,"1701",Luciano,,,,ice_cream,,,,,node,"11011354326",
+-68.2881219,12.1736664,"1702",Bamboo Bonaire,,,resort,,,,,,node,"11012381246",
+-68.2717914,12.1608173,"1703",Garage Cordia,,,,,,car,,,node,"11012438931",
+-68.2789506,12.1554038,"1704",Pastechi and More,,,,fast_food,,,,,node,"11012827503",
+-68.2774056,12.1510472,"1705",Bedazzle Adaliz,,,,,,jewelry,,,node,"11012827504",
+-68.2860329,12.1696013,"1706",Bon Bida,,,fitness_centre,,,,,,node,"11012836606",
+-68.2851947,12.1677889,"1707",Dushi Style,,,,,,sports,,"scuba_diving;running",node,"11012836607",
+-68.2838964,12.1637315,"1708",Oscar Lighthouse,,,,restaurant,,,,,node,"11013226444",
+-68.2839554,12.1633696,"1709",Target Pest Control,,,,,,pest_control,,,node,"11013226445",
+-68.2838334,12.1632556,"1710",Klinika Dental van Egmond,,,,dentist,,,,,node,"11013226446",
+-68.2764488,12.1468395,"1711",Summersweet Bonaire,,,,,,gift,,,node,"11019787915",
+-68.2765534,12.1470939,"1712",Megacorp Advocaten,,,,,lawyer,,,,node,"11019787916",
+-68.308515,12.2018663,"1713",Pelican Pizza,,,,restaurant,,,,,node,"11020556861",
+-68.3417923,12.2653983,"1714",Thirsty and Hungry,,,,cafe,,,,,node,"11022864885",
+-68.2663762,12.0444486,"1715",Kiteboarding Bonaire,,,,,,,,kitesurfing,node,"11026531203",
+-68.2663065,12.0442309,"1716",Bonaire Kiteschool,,,,,,,,kitesurfing,node,"11026531204",
+-68.2734783,12.2134053,"1718",Tanki Maraka Heritage Park,,,,,,,museum,,node,"11048197836",./4.png
+-68.2159998,12.1755025,"1719",Red Hill,,,,,,,viewpoint,,node,"11049718352",./1.png
+-68.2101339,12.173616,"1720",Boka Washikemba,,,,,,,viewpoint,,node,"11049744492",./1.png
+-68.3100972,12.2014565,"1721",,,,,bench,,,,,node,"11092056028",
+-68.3180026,12.2076094,"1722",,,,,bench,,,,,node,"11092056085",
+-68.3191775,12.2086239,"1723",,,,,,,,viewpoint,,node,"11092067427",./1.png
+-68.3242636,12.2111366,"1724",,,,,bench,,,,,node,"11092067492",
+-68.323764,12.2113033,"1725",,,,,,,,viewpoint,,node,"11092067493",./1.png
+-68.3376537,12.2170607,"1726",,,,,bench,,,,,node,"11092067526",
+-68.3498429,12.2183777,"1727",,,,,bench,,,,,node,"11092067529",
+-68.2784478,12.1630865,"1728",,,,,,,,apartment,,node,"11101891505",
+-68.2752793,12.1232217,"1729",,,,,,,,apartment,,node,"11101893605",
+-68.3403631,12.2339702,"1730",Altamira UnJo (Panorama Rincon),,,,,,,viewpoint,,node,"11112534184",./1.png
+-68.3477295,12.2335831,"1731",,,,,,,,viewpoint,,node,"11112545359",./1.png
+-68.3479599,12.2726463,"1732",,,,,,,,information,,node,"11112627987",./5.png
+-68.3456336,12.2728811,"1733",Pos di Undomigu na Barbona di Kunuku Blanku,,water_well,,,,,,,node,"11112629215",
+-68.3456037,12.2728918,"1734",,,,,,,,information,,node,"11112629241",./5.png
+-68.3432272,12.272395,"1735",,,,,,,,information,,node,"11112629242",./5.png
+-68.3447221,12.2752701,"1736",Pos di Undomigu Riba Klips,,water_well,,,,,,,node,"11112629258",
+-68.3446925,12.2752783,"1737",,,,,,,,information,,node,"11112629259",./5.png
+-68.3460091,12.279174,"1738",,,,,,,,information,,node,"11112629272",./5.png
+-68.3460045,12.2792529,"1739",,,,,,,,attraction,,node,"11112629273",./2.png
+-68.3477722,12.2794967,"1740",,,,,,,,information,,node,"11112629282",./5.png
+-68.348677,12.2774098,"1741",,,,,,,,information,,node,"11112629316",./5.png
+-68.3490385,12.2770704,"1742",,,,,,,,viewpoint,,node,"11112629321",./1.png
+-68.330221,12.2405989,"1743",Rincon Medical Center,,,,doctors,,,,,node,"11186115669",
+-68.2673163,12.1424712,"1745",Bon Bini Car Rental & Tours,,,,,,car,,,node,"11236010138",
+-68.4144402,12.276843,"1746",Bise Morto,,,,,,,attraction,,node,"11302382069",./2.png
+-68.2581378,12.0323197,"1747",Hidden Beach (unmarked site),,,,,,,,scuba_diving,node,"11333668404",
+-68.2562156,12.0311599,"1748",Yellow Hut (unmarked site),,,,,,,,scuba_diving,node,"11333668405",
+-68.2604963,12.0334365,"1749",Soft Coral Garden (unmarked site),,,,,,,,scuba_diving,node,"11333668406",
+-68.2884166,12.174665,"1751",,TerraBasket,,,,,health_food,,,node,"11420942269",
